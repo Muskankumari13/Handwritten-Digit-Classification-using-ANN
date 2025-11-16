@@ -1,31 +1,23 @@
-#Handwritten Digit Classification using ANN
+# Handwritten Digit Classification using ANN
 
 This project implements an Artificial Neural Network (ANN) to classify handwritten digits (0–9) using the MNIST dataset.
 
-#Project Highlights
+# Project Highlights
 
-   Data loading, preprocessing, and normalization
+- Data loading, preprocessing, and normalization
+- ANN-based model design and training
+- Loss function: Sparse Categorical Crossentropy
+- Activation functions: ReLU and Softmax
+- Evaluation and interpretation of model predictions
+- Focused on understanding multiclass classification concepts
 
-    ANN-based model design and training
-
-    Loss function: Sparse Categorical Crossentropy
-
-    Activation functions: ReLU and Softmax
-
-    Evaluation and interpretation of model predictions
-
-    Focused on understanding multiclass classification concepts
-
-#Project Goal
+# Project Goal
 
 The primary objective was to learn how multiclass classification works in neural networks, including label encoding, probability computation, and how ANN models produce final predictions.
 
-#Tech Stack
+# Tech Stack
 
-   Python
-
-   TensorFlow / Keras
-
-   NumPy
-
-  Matplotlib
+- Python
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
